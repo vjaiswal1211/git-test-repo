@@ -5,3 +5,67 @@ git/VishalAutomationTestProject
 adding some text
 
 adding new text 
+
+
+
+adding content for privatebranch 2
+
+/***************************************************************************************************
+Vishal.Jaiswal@SE_MEL_DEV06 MINGW64 ~/Source/repos/JupiterAssessment (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/Vishal.Jaiswal/Source/repos/JupiterAssessment/.git/
+
+Vishal.Jaiswal@SE_MEL_DEV06 MINGW64 ~/Source/repos/JupiterAssessment (master)
+$ git remote add origin https://se-sea-tfs@dev.azure.com/se-aus-tfs/seera/_git/VishalAutomationTestProject
+fatal: remote origin already exists.
+
+Vishal.Jaiswal@SE_MEL_DEV06 MINGW64 ~/Source/repos/JupiterAssessment (master)
+$ ^C
+
+Vishal.Jaiswal@SE_MEL_DEV06 MINGW64 ~/Source/repos/JupiterAssessment (master)
+$ git add .
+
+Vishal.Jaiswal@SE_MEL_DEV06 MINGW64 ~/Source/repos/JupiterAssessment (master)
+$ git commit -m "New Project files added"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+Vishal.Jaiswal@SE_MEL_DEV06 MINGW64 ~/Source/repos/JupiterAssessment (master)
+$ git push -u origin master
+Everything up-to-date
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+Vishal.Jaiswal@SE_MEL_DEV06 MINGW64 ~/Source/repos/JupiterAssessment (master)
+$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+
+Vishal.Jaiswal@SE_MEL_DEV06 MINGW64 ~/Source/repos/JupiterAssessment (master)
+$ git add .
+
+Vishal.Jaiswal@SE_MEL_DEV06 MINGW64 ~/Source/repos/JupiterAssessment (master)
+$ ^C
+
+Vishal.Jaiswal@SE_MEL_DEV06 MINGW64 ~/Source/repos/JupiterAssessment (master)
+$ git commit -m "New project"
+[master 3ba397a] New project
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+Vishal.Jaiswal@SE_MEL_DEV06 MINGW64 ~/Source/repos/JupiterAssessment (master)
+$ git push -u origin master
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 424 bytes | 424.00 KiB/s, done.
+Total 5 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To https://github.com/vjaiswal1211/JupiterAssessment.git
+   3b7dfa7..3ba397a  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+Vishal.Jaiswal@SE_MEL_DEV06 MINGW64 ~/Source/repos/JupiterAssessment (master)
+$
+*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
