@@ -3,3 +3,5 @@ git/VishalAutomationTestProject
 //*[contains(@class,'myclass') and contains(text(),'qwerty')]
 
 adding some text
+
+adding new text 
