@@ -5,3 +5,32 @@ git/VishalAutomationTestProject
 adding some text
 
 adding new text 
+
+Private branch 1 code blah blah blah 
+
+
+[
+ {          
+     "defaultBranch": null,
+     "id": "fa3ee42f-519d-4633-8e31-4a84de343ca3",
+     "isFork": null,
+     "name": "FabrikamApp",
+     "parentRepository": null,
+     "project": {
+       "abbreviation": null,
+       "description": "This is the pipeline project for github repo",
+       "id": "fa3ee42f-519d-4633-8e31-4a84de343ca4",
+       "lastUpdateTime": "2019-04-09T08:32:15.977Z",
+       "name": "Fabrikam",
+       "revision": 255,
+       "state": "wellFormed",
+       "url": "https://dev.azure.com/fabrikops2/_apis/projects/fa3ee42f-519d-4633-8e31-4a84de343ca4",
+       "visibility": "public"
+     },
+     "remoteUrl": "https://dev.azure.com/fabrikops2/Fabrikam/_git/FabrikamApp",
+     "size": 0,
+     "sshUrl": "fabrikops2@vs-ssh.visualstudio.com:v3/fabrikops2/Fabrikam/FabrikamApp",
+     "url": "https://dev.azure.com/fabrikops2/fa3ee42f-519d-4633-8e31-4a84de343ca4/_apis/git/repositories/fa3ee42f-519d-4633-8e31-4a84de343ca3",
+     "validRemoteUrls": null
+   }
+ ]
